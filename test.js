@@ -17,3 +17,7 @@ const function2 = () => {
 const gitFunction(){
     return 'git function';
 }
+
+const function3 = () => {
+    return 'function3'
+} 
