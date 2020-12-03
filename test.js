@@ -13,3 +13,7 @@ console.log("hello")
 const function2 = () => {
     return 'function2'
 } 
+
+const gitFunction(){
+    return 'git function';
+}
