@@ -9,3 +9,7 @@ const function1 = async (callback) => {
 }
 function1((a) => console.log(a))
 console.log("hello")
+
+const function2 = () => {
+    return 'function2'
+} 
