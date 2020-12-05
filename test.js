@@ -17,3 +17,7 @@ function func1(){
 function func3(){
     return 'func3';
 }
+
+function masterFunc(){
+    return 'master func';
+}
