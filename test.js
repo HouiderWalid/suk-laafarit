@@ -13,3 +13,7 @@ console.log("hello")
 function func1(){
     return 'func1';
 }
+
+function func3(){
+    return 'func3';
+}
