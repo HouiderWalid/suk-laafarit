@@ -10,6 +10,6 @@ const function1 = async (callback) => {
 function1((a) => console.log(a))
 console.log("hello")
 
-function masterFunc(){
-    return 'master func';
+function func1(){
+    return 'func1';
 }
